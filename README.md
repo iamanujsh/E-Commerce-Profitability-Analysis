@@ -59,7 +59,7 @@ An analysis of $503K in ad spend reveals massive disparities in platform efficie
 
 If tasked with improving overall profitability and cutting 20% of the marketing budget (approx. $100,000), I recommend the following three actions:
 
-1. **Reallocate Q4 Ad Spend to High-Yield Social Platforms:** Cut $100K by drastically reducing Facebook Ads and Email Marketing spend, specifically trimming the bloated budgets in November and December when ad auctions are expensive and ROAS dips. Reinvest a fraction of these savings into consistently high-performing channels like TikTok Ads and Influencer marketing throughout the year.
+1. **Reallocate Q4 Ad Spend to High-Yield Social Platforms:** Cut $100K by drastically reducing **Google Ads** and **Facebook Ads** spend, specifically trimming their bloated budgets in November and December when ad auctions are expensive and average ROAS dips. Reinvest a fraction of these savings into consistently high-performing channels like TikTok Ads and Influencer marketing throughout the year.
 
 2. **Overhaul Fulfillment Strategy for Low-Ticket Items:** With Books and Beauty operating at <18% margins due to flat shipping costs, BrightCart must implement minimum order thresholds for free shipping (e.g., *"Free shipping on orders over $50"*) or bundle these items. This will increase the Average Order Value and absorb the $25+ average shipping cost.
 
