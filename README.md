@@ -44,6 +44,8 @@ Returns cost the business significantly, but the rate of returns tells a differe
 * **By Category:** **Electronics** leads in both return rate and total revenue lost (>$4,000). However, because its baseline margin is over 31%, it remains highly profitable even after factoring in these losses.
 
 ### 4. Marketing & Return on Ad Spend (ROAS)
+<img width="1203" height="306" alt="{6B10EDDF-AD23-4E23-BB67-50F42EE27AA3}" src="https://github.com/user-attachments/assets/751d5bc5-0dd6-401a-b150-b98d1b4c8dd3" />
+
 An analysis of $503K in ad spend reveals massive disparities in platform efficiency.
 
 * **The Winners:** **TikTok Ads** (24.44 ROAS) and **Influencer Marketing** (23.45 ROAS) are highly capital-efficient, driving massive returns on relatively modest spends (~$57K and ~$97K, respectively).
