@@ -28,7 +28,7 @@ Top-line revenue hides the true unit economics of our catalog. Shipping costs ar
 > **💡 Insight:** Shipping costs are relatively flat across categories (ranging from $23 to $26), meaning low-AOV (Average Order Value) categories like Books, Beauty (17.39% margin), and Clothing (19.99%) are disproportionately dragged down by fulfillment expenses.
 
 ### 2. Sales Channel Efficiency
-<img width="1152" height="725" alt="{F4305914-4F9D-4F6F-B223-C6FA2AC6B7B4}" src="https://github.com/user-attachments/assets/535e52d5-a029-459d-ab9f-8c944732a5e5" />
+<img width="1129" height="712" alt="{BF34799A-C8C8-40AE-8D42-26F0EB205709}" src="https://github.com/user-attachments/assets/f3460591-8467-4ceb-97f0-f15b56367c4e" />
 
 Not all revenue channels are created equal. Platform fees significantly alter the bottom line.
 
