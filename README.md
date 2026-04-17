@@ -18,6 +18,8 @@ A comprehensive data analysis evaluating product profitability, sales channel ef
 ## 📊 Key Findings & Analysis
 
 ### 1. Product Category Profitability
+<img width="1168" height="367" alt="{0DE3DF9B-C1A0-45C0-9191-D01923D0451A}" src="https://github.com/user-attachments/assets/aa458912-d47f-4d68-a260-90e1ef21ca22" />
+
 Top-line revenue hides the true unit economics of our catalog. Shipping costs are heavily penalizing lower-ticket categories.
 
 * **Top Performer (Electronics):** The most profitable category with a **31.13% profit margin**, despite having the highest average product cost ($75.25) and the highest return rate (8.61%). The high retail price easily absorbs shipping and return costs.
@@ -26,6 +28,8 @@ Top-line revenue hides the true unit economics of our catalog. Shipping costs ar
 > **💡 Insight:** Shipping costs are relatively flat across categories (ranging from $23 to $26), meaning low-AOV (Average Order Value) categories like Books, Beauty (17.39% margin), and Clothing (19.99%) are disproportionately dragged down by fulfillment expenses.
 
 ### 2. Sales Channel Efficiency
+<img width="1152" height="725" alt="{F4305914-4F9D-4F6F-B223-C6FA2AC6B7B4}" src="https://github.com/user-attachments/assets/535e52d5-a029-459d-ab9f-8c944732a5e5" />
+
 Not all revenue channels are created equal. Platform fees significantly alter the bottom line.
 
 * **The Best:** The **Mobile App** yields the highest Profit Per Order (PPO) at roughly **$36**, followed closely by the native Website ($31).
