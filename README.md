@@ -1,4 +1,4 @@
 # E-Commerce-Profitability-Analysis
 
 <h1>Introduction</h1>
-<p></p>
+<p>This project delivers a comprehensive, data-driven audit of multi-channel e-commerce profitability, moving beyond top-line revenue to uncover the true net margins of a $1M+ DTC brand. Leveraging SQL for complex data joins, Pandas for granular financial modeling, and Power Bi /Excel for executive-level visualization, the study answers critical questions for fiscal health—such as category-level profit leakage, platform fee efficiency across Social Commerce and Marketplaces, and the impact of return rates on the bottom line. By synthesizing order transactions, product COGS, and multi-platform marketing spend, this analysis identifies underperforming ad channels and provides a data-backed roadmap for a 20% budget optimization without sacrificing high-margin growth.</p>
