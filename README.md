@@ -55,6 +55,7 @@ An analysis of $503K in ad spend reveals massive disparities in platform efficie
 ---
 
 ## 🎯 Strategic Recommendations
+<img width="1384" height="771" alt="image" src="https://github.com/user-attachments/assets/0c79d711-ddef-4d0e-b073-dc7e8fe9aa6a" />
 
 If tasked with improving overall profitability and cutting 20% of the marketing budget (approx. $100,000), I recommend the following three actions:
 
