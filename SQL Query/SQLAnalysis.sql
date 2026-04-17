@@ -1,6 +1,4 @@
 
-USE Analyst_Builder
-
 select * from orders
 
 /* Group orders by product category.
