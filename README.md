@@ -57,10 +57,16 @@ An analysis of $503K in ad spend reveals massive disparities in platform efficie
 ## 🎯 Strategic Recommendations
 <img width="1384" height="771" alt="image" src="https://github.com/user-attachments/assets/0c79d711-ddef-4d0e-b073-dc7e8fe9aa6a" />
 
-If tasked with improving overall profitability and cutting 20% of the marketing budget (approx. $100,000), I recommend the following three actions:
+If tasked with cutting 20% of the marketing budget, I would strongly recommend reducing spend on **Google Ads** and **Facebook Ads** during **November and December**.
 
-1. **Reallocate Q4 Ad Spend to High-Yield Social Platforms:** Cut $100K by drastically reducing **Google Ads** and **Facebook Ads** spend, specifically trimming their bloated budgets in November and December when ad auctions are expensive and average ROAS dips. Reinvest a fraction of these savings into consistently high-performing channels like TikTok Ads and Influencer marketing throughout the year.
+## Supporting Data
 
-2. **Overhaul Fulfillment Strategy for Low-Ticket Items:** With Books and Beauty operating at <18% margins due to flat shipping costs, BrightCart must implement minimum order thresholds for free shipping (e.g., *"Free shipping on orders over $50"*) or bundle these items. This will increase the Average Order Value and absorb the $25+ average shipping cost.
+Here is the data that supports this recommendation:
 
-3. **Audit the Social Commerce Funnel:** Social Commerce has the highest return rate (~9%) and the second-lowest Profit Per Order (~$17). We need to review product descriptions, sizing guides, and video representations on social platforms to set better buyer expectations and reduce impulse-driven returns, while factoring platform fees into pricing strategies to protect margins.
+* **Massive Spend Spikes in Q4:** The chart shows huge, disproportionate budget increases for Google Ads (orange bars) and Facebook Ads (dark blue bars) at the end of the year. Google Ads peaks at nearly $19,000 in November, and Facebook Ads jumps to over $15,000.
+* **Plunging Efficiency (ROAS):** Despite injecting massive amounts of capital into these platforms during Q4, the Average ROAS (yellow line) drops sharply. It falls from roughly 17.5 in October down to about 13.5 in November. While it slightly recovers in December, it remains much lower than peak efficiency months like February or June.
+* **Severe Diminishing Returns:** You are spending the most money of the year on Google and Facebook during November and December, but getting one of the worst returns on investment of the year.
+
+## The Strategy
+
+While July and August actually have the absolute lowest ROAS of the year, the total spend during those months is relatively average. To hit a massive 20% overall budget cut, you need to target where the largest sums of money are being spent inefficiently. Trimming the bloated Google and Facebook budgets during the expensive Q4 holiday auction months is the most direct, data-backed path to reducing costs while protecting overall profit margins.
