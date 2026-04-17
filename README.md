@@ -18,7 +18,7 @@ A comprehensive data analysis evaluating product profitability, sales channel ef
 ## 📊 Key Findings & Analysis
 
 ### 1. Product Category Profitability
-<img width="1168" height="367" alt="{0DE3DF9B-C1A0-45C0-9191-D01923D0451A}" src="https://github.com/user-attachments/assets/aa458912-d47f-4d68-a260-90e1ef21ca22" />
+<img width="1100" height="375" alt="{29E05900-5945-45B7-A58B-76E56918D367}" src="https://github.com/user-attachments/assets/5da9de93-1481-4cef-8940-ee4dcbd17a29" />
 
 Top-line revenue hides the true unit economics of our catalog. Shipping costs are heavily penalizing lower-ticket categories.
 
